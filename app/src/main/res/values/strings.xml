@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testInClass</string>
+
+  <string-array name="spinnerlist">
+    <item>Full time</item>
+    <item>part time</item>
+  </string-array>
+</resources>
